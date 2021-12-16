@@ -1,1 +1,1 @@
-# OmskHackers gang writeups
+# OmskHackers writeups
