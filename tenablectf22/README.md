@@ -7,6 +7,7 @@ We take the [VBA script](https://github.com/OmskHackers/writeups/blob/main/tenab
 Xor function
 
 ![image info](https://github.com/OmskHackers/writeups/raw/main/tenablectf22/cipher.png)
+
 From traffic dump we understand where key and ciphertext are located.
 ![image info](https://github.com/OmskHackers/writeups/raw/main/tenablectf22/dump.png)
 
